@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 
 <head> 
     <title>Favre Tribute Page</title> 
@@ -85,5 +84,3 @@
 </body>
 
 
-
-</html>
